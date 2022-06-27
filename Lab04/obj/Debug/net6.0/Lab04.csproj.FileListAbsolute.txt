@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.AssemblyInfo.cs
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\Lab04.exe
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\Lab04.deps.json
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\Lab04.runtimeconfig.json
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\Lab04.dll
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\ref\Lab04.dll
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\Lab04.pdb
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.csproj.CopyComplete
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.dll
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\ref\Lab04.dll
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.pdb
+C:\Users\User\Desktop\Univer\Lischuk\Lab04\obj\Debug\net6.0\Lab04.genruntimeconfig.cache
